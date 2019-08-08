@@ -2,7 +2,7 @@
 
 ## Also, swords
 
-At this point I'm just kicking the tires to see how this approach will work, and am plannning to delete the site and repo before to long.
+At this point I'm just kicking the tires to see how this approach will work, and am plannning to delete the site and repo before too long.
 
 In the meantime, check out this amazing swordsmanship:
 
